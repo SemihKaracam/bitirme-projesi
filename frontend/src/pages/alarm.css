@@ -1,0 +1,33 @@
+.alarm-page{
+    padding: 40px;
+    height: 100%;
+    width: 100%;
+}
+
+
+.secim-container-alarm{
+    padding-top: 16px;
+    padding-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    color: black;
+}
+
+
+.alarm-page form input{
+    width: 100%;
+    padding: 12px;
+}
+
+.alarm-form{
+    width: 40%;
+}
+
+.alarm-form select{
+    padding: 12px;
+}
+.alarm-form h6{
+    text-align: left;
+}
+
